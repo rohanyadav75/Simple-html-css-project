@@ -1,0 +1,28 @@
+body{
+    background-color:olivedrab;
+}
+.rony{
+    padding:10px;
+    margin:45px;
+    background-color: whitesmoke;
+    color:deepskyblue;
+    text-align: center;
+    border-radius:15px;
+    border-color:deeppink;
+    width:550px;
+
+}
+#yy{
+    font-size:25px;
+}
+
+#tt{
+    color: black;
+    text-align: left;
+}
+#ty{
+    border-radius: 20px;
+    color:aqua;
+    border-color: aqua;
+    padding: 10px;
+}
